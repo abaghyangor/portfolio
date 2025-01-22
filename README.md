@@ -13,11 +13,6 @@ I am an aspiring data scientist with a strong foundation in Python and data visu
 - Collaborated with cross-functional teams to identify key insights, reducing data processing errors by 20%.
 - Delivered detailed analytical reports, which informed product design decisions and optimized user engagement.
 
-**Student Researcher | New York Academy of Sciences | September 2023 – November 2023**
-- Conducted research on AI tools to enhance academic accessibility for individuals with disabilities.
-- Coordinated a team across international time zones, ensuring timely project completion and well-organized presentations.
-- Presented findings on accessibility improvements, shared the insights, and discussed them with the academic community.
-
 **Volunteer Data Analyst at TOON Expo | Defanse Housing Invest | September 2023**
 - Interpreted data and analyzed trends to assess the performance and impact of the largest real estate exhibition in Armenia.
 - Developed comprehensive dashboards to monitor the quality and engagement metrics of the program.
@@ -37,11 +32,6 @@ For this project, I developed a dynamic and fully automated sales dashboard usin
 ### 3. Fake News Detection
 
 In this ongoing project, I am developing a machine learning model to detect and classify fake news using a labeled dataset. The process involves preprocessing textual data, extracting key features using techniques like TF-IDF, and training classification algorithms, such as Logistic Regression and Support Vector Machines. This project allows me to apply advanced natural language processing techniques and refine my understanding of how machine learning can address real-world societal challenges.
-
-## Certifications:
-#### [Python Data Science: Data Prep & EDA with Python - Maven Analytics ( Udemy )](https://www.udemy.com/course/data-science-in-python-data-prep-eda/?couponCode=ST18MT12125CROW)
-#### [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-#### [Introduction to Artificial Intelligence (2023) - LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-artificial-intelligence-2023%3Ftrk%3Dshare_ent_url%26shareId%3DiAQFaV7wREepTqBdXHea1Q%253D%253D)
 
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
