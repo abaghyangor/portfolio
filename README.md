@@ -38,6 +38,11 @@ For this project, I developed a dynamic and fully automated sales dashboard usin
 
 In this ongoing project, I am developing a machine learning model to detect and classify fake news using a labeled dataset. The process involves preprocessing textual data, extracting key features using techniques like TF-IDF, and training classification algorithms, such as Logistic Regression and Support Vector Machines. This project allows me to apply advanced natural language processing techniques and refine my understanding of how machine learning can address real-world societal challenges.
 
+## Certifications:
+#### [Python Data Science: Data Prep & EDA with Python - Maven Analytics ( Udemy )](https://www.udemy.com/course/data-science-in-python-data-prep-eda/?couponCode=ST18MT12125CROW)
+#### [Data Analysis with Python - FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+#### [Introduction to Artificial Intelligence (2023) - LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-artificial-intelligence-2023%3Ftrk%3Dshare_ent_url%26shareId%3DiAQFaV7wREepTqBdXHea1Q%253D%253D)
+
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
 - Data Visualization: Google Sheets, Excel, Matplotlib
