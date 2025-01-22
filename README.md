@@ -37,6 +37,7 @@ In this ongoing project, I am developing a machine learning model to detect and 
 - Programming: Python (Pandas, NumPy, Seaborn)
 - Data Visualization: Google Sheets, Excel, Matplotlib
 - Tools: Jupyter Notebook, Git
+- Languages: English, Russian, Armenian ( All Native level )
 - Soft Skills: Team Collaboration, Presentation, Communication, Problem-Solving
 
 ### Contact
