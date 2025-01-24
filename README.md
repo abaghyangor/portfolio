@@ -19,9 +19,9 @@ I am an aspiring data scientist with a strong foundation in Python and data visu
 - Designed and created visually appealing presentations and flyers that increased program visibility by 15%.
 
 **Data Analysis Global Finalist | Uber Global Hackathon | October 2023**
-- Achieved Global Finalist status in the Uber Hackathon by proposing innovative solutions to address transportation challenges in Barcelona, including accessibility for senior citizens and individuals with disabilities, environmental sustainability, and market competitiveness.
-- Developed a data-driven plan leveraging hybrid and electric vehicles, dedicated traffic lanes, and training programs for Uber drivers, improving accessibility, reducing carbon emissions, and fostering inclusivity.
-- Collaborated with a diverse international team to analyze urban mobility data, create an implementation roadmap, and present a comprehensive solution to Uber leadership.
+- Achieved Global Finalist status in the Uber Hackathon (3%) by addressing transportation challenges in Barcelona.
+- Developed a data-driven plan leveraging hybrid and electric vehicles, dedicated traffic lanes, and training programs for Uber drivers.
+- Collaborated with a diverse international team to analyze urban mobility data, create an implementation roadmap, and present solution.
 
 ## Projects
 
