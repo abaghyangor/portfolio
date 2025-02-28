@@ -36,7 +36,7 @@ For this project, I developed a dynamic and fully automated sales dashboard usin
 
 ### 3. Fake News Detection
 
-In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
+ In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
 
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
