@@ -26,7 +26,7 @@ I am an aspiring data scientist with a strong foundation in Python and data visu
 ## Projects
 
 ### 1. Airbnb Listing Analysis in Paris
-#### [Link to the Project](https://www.kaggle.com/datasets/abaghyangor/airbnb-paris](https://www.kaggle.com/code/abaghyangor/airbnb-project)](https://www.kaggle.com/code/abaghyangor/airbnb-project) <br>
+#### [Link to the Project](https://www.kaggle.com/code/abaghyangor/fake-news) <br>
 This project involved analyzing a large Airbnb dataset to uncover trends in pricing and occupancy rates. Using Python libraries such as Pandas, Matplotlib, and Seaborn, I cleaned and processed over 10,000 data entries to identify the factors driving booking demand. Through detailed data visualizations, I provided actionable insights that could help optimize pricing strategies for property hosts. This project demonstrated my ability to work with complex datasets and generate meaningful insights for real-world applications.
 
 
@@ -35,7 +35,7 @@ This project involved analyzing a large Airbnb dataset to uncover trends in pric
 For this project, I developed a dynamic and fully automated sales dashboard using Google Sheets. The dashboard was designed to track customer interactions, sales performance, and other key business metrics in real time. By employing advanced formulas and conditional formatting, I created a tool that streamlined reporting and improved decision-making for sales teams. This project highlighted my proficiency in creating user-friendly data visualization tools tailored to business needs.
 
 ### 3. Fake News Detection
-#### [Link to the Project](https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset](https://www.kaggle.com/code/abaghyangor/fake-news)](https://www.kaggle.com/code/abaghyangor/fake-news) <br>
+#### [Link to the Project](https://www.kaggle.com/code/abaghyangor/airbnb-project) <br>
  In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
 
 ## Skills
