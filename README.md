@@ -36,7 +36,12 @@ For this project, I developed a dynamic and fully automated sales dashboard usin
 
 ### 3. Fake News Detection
 #### [Link to the Project](https://www.kaggle.com/code/abaghyangor/airbnb-project) <br>
- In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
+In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
+
+
+### 4. TweetLike - Who Said That?
+#### [Link to the Project](https://tweetlike.streamlit.app/) <br>
+As part of a hackathon, I developed TweetLike, an interactive, quiz-style web application where users write their own tweet and guess which celebrity they sound like. The app features an engaging X (Twitter)-style interface that hides names and avatars until after prediction, creating a fun game experience. On the machine learning side, I used TF-IDF vectorization to convert tweets into numerical features and trained a Logistic Regression model to classify the text among multiple celebrities. The app also explains its predictions with simple and detailed breakdowns of keywords contributing to each guess.
 
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
