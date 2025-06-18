@@ -40,7 +40,7 @@ In this project, I developed a machine learning model to detect and classify fak
 
 
 ### 4. TweetLike - Who Said That?
-#### [Link to the Project](https://tweetlike.streamlit.app/](https://github.com/abaghyangor/ripgor) <br>
+#### [Link to the Project](https://github.com/abaghyangor/ripgor) <br>
 As part of a hackathon, I developed TweetLike with my team, an interactive, quiz-style web application where users write their own tweet and guess which celebrity they sound like. The app features an engaging X (Twitter)-style interface that hides names and avatars until after prediction, creating a fun game experience. On the machine learning side, I used TF-IDF vectorization to convert tweets into numerical features and trained a Logistic Regression model to classify the text among multiple celebrities. The app also explains its predictions with simple and detailed breakdowns of keywords contributing to each guess.
 
 ## Skills
