@@ -12,6 +12,8 @@ I am an aspiring data scientist with a strong foundation in Python and data visu
 - Cleaned and analyzed datasets with over 50,000 entries to support the launch of a new game platform.
 - Collaborated with cross-functional teams to identify key insights, reducing data processing errors by 20%.
 - Delivered detailed analytical reports, which informed product design decisions and optimized user engagement.
+- Internally documented the process of EDA to ensure transparency with other team members and department teams.
+- Created visual representations of data and key metrics of datasets to be included in reports.
 
 Key Technologies: Python, pandas, NumPy, Jupyter, Git
 
@@ -19,18 +21,22 @@ Key Technologies: Python, pandas, NumPy, Jupyter, Git
 - Interpreted data and analyzed trends to assess the performance and impact of the largest real estate exhibition in Armenia.
 - Developed comprehensive dashboards to monitor the quality and engagement metrics of the program.
 - Designed and created visually appealing presentations and flyers that increased program visibility by 15%.
+- Collaborated with exhibitors and gathered feedback to optimize dashboards and reports.
+- Created detailed reports about the key information of data tailed with the visual representation of key metrics.
 
-Key Technologies: Python, pandas, NumPy, Jupyter, Seaborn, Git, Canvas, Tableau
+Key Technologies: Google Workspace ( primarily Google Sheets ), Canvas, Microsoft 365
 
 **Data Analysis Global Finalist | Uber Global Hackathon | October 2023**
 - Achieved Global Finalist status in the Uber Hackathon (3%) by addressing transportation challenges in Barcelona.
 - Developed a data-driven plan leveraging hybrid and electric vehicles, dedicated traffic lanes, and training programs for Uber drivers.
 - Collaborated with a diverse international team to analyze urban mobility data, create an implementation roadmap, and present solution.
+- Reported the developments of the project to the judges of the hackathon, and created visually appealing presentations that included key information.
+  
 
-Key Technologies: Python, pandas, NumPy, Jupyter, Matplotlib, Microsoft 365 ( Excel )
+Key Technologies: Python, pandas, NumPy, Jupyter, Matplotlib, Microsoft 365
 
 **Data Scientist Intern | IDX Exchange | Summer 2025**
-- Led a group of four data scientist interns, created a welcoming and productive environment for the team.
+- Led a group of four data scientist interns, and created a welcoming and productive environment for the team.
 - Built and evaluated machine learning models to predict home prices using historical real estate transaction data from CoreLogic’s Trestle API
 - Performed data cleaning, feature engineering, and exploratory analysis on housing datasets using Python (pandas, NumPy, scikit-learn)
 - Compared performance of multiple regression algorithms (e.g., Linear Regression, Random Forest, XGBoost) and selected the best model based on R-square and MAE
