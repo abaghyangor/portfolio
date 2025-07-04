@@ -8,20 +8,36 @@ I am an aspiring data scientist with a strong foundation in Python and data visu
 
 ## Work Experience
 
-**Data Scientist Intern | Digitain Group LLC | July 2023 – August 2023**
+**Data Scientist Intern | Digitain Group LLC | Summer 2023**
 - Cleaned and analyzed datasets with over 50,000 entries to support the launch of a new game platform.
 - Collaborated with cross-functional teams to identify key insights, reducing data processing errors by 20%.
 - Delivered detailed analytical reports, which informed product design decisions and optimized user engagement.
+
+Key Technologies: Python, pandas, NumPy, Jupyter, Git
 
 **Volunteer Data Analyst at TOON Expo | Defanse Housing Invest | September 2023**
 - Interpreted data and analyzed trends to assess the performance and impact of the largest real estate exhibition in Armenia.
 - Developed comprehensive dashboards to monitor the quality and engagement metrics of the program.
 - Designed and created visually appealing presentations and flyers that increased program visibility by 15%.
 
+Key Technologies: Python, pandas, NumPy, Jupyter, Seaborn, Git, Canvas, Tableau
+
 **Data Analysis Global Finalist | Uber Global Hackathon | October 2023**
 - Achieved Global Finalist status in the Uber Hackathon (3%) by addressing transportation challenges in Barcelona.
 - Developed a data-driven plan leveraging hybrid and electric vehicles, dedicated traffic lanes, and training programs for Uber drivers.
 - Collaborated with a diverse international team to analyze urban mobility data, create an implementation roadmap, and present solution.
+
+Key Technologies: Python, pandas, NumPy, Jupyter, Matplotlib, Microsoft 365 ( Excel )
+
+**Data Scientist Intern | IDX Exchange | Summer 2025**
+- Led a group of four data scientist interns, created a welcoming and productive environment for the team.
+- Built and evaluated machine learning models to predict home prices using historical real estate transaction data from CoreLogic’s Trestle API
+- Performed data cleaning, feature engineering, and exploratory analysis on housing datasets using Python (pandas, NumPy, scikit-learn)
+- Compared performance of multiple regression algorithms (e.g., Linear Regression, Random Forest, XGBoost) and selected the best model based on R-square and MAE
+- Participated in weekly team reviews, gave presentations on modeling strategies, and received feedback from senior data scientists and mentors
+- Contributed to internal documentation and best practices for model reproducibility
+
+Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trestle/CoreLogic), MySQL, Git
 
 ## Projects
 
@@ -46,7 +62,7 @@ As part of a hackathon, I developed TweetLike with my team, an interactive, quiz
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
 - Data Visualization: Google Sheets, Excel, Matplotlib
-- Tools: Jupyter Notebook, Git
+- Tools: Jupyter Notebook, Git, Tableau
 - Languages: English, Russian, Armenian ( All Native level )
 - Soft Skills: Team Collaboration, Presentation, Communication, Problem-Solving
 
