@@ -45,6 +45,14 @@ Key Technologies: Python, pandas, NumPy, Jupyter, Matplotlib, Microsoft 365
 
 Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trestle/CoreLogic), MySQL, Git
 
+
+**Dataset Creator | Kaggle | Ongoing**
+- Created and published original machine learning datasets and code notebooks on Kaggle, focused on real-world applications such as fake news detection, real estate analysis, social media sentiment analysis.
+- Performed extensive data cleaning, feature engineering, and exploratory data analysis using Python (pandas, NumPy, seaborn)
+- Built predictive models using logistic regression and XGBoost, evaluated performance with precision, recall, and F1-score metrics
+- Engaged with the data science community through discussions, comments, and dataset documentation
+- Reached over 15,000+ views and 2,000+ downloads, with active use across multiple public notebooks
+
 ## Projects
 
 ### 1. Airbnb Listing Analysis in Paris
