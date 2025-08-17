@@ -55,23 +55,31 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 
 ## Projects
 
-### 1. Airbnb Listing Analysis in Paris
-#### [Link to the Project](https://www.kaggle.com/code/abaghyangor/airbnb-project) <br>
-This project involved analyzing a large Airbnb dataset to uncover trends in pricing and occupancy rates. Using Python libraries such as Pandas, Matplotlib, and Seaborn, I cleaned and processed over 10,000 data entries to identify the factors driving booking demand. Through detailed data visualizations, I provided actionable insights that could help optimize pricing strategies for property hosts. This project demonstrated my ability to work with complex datasets and generate meaningful insights for real-world applications.
+### 1. JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - August 2025
+#### [Link to the Project](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_mhCY7RRkuevZHkP4u_1755442169342_completion_certificate.pdf) <br>
+- Completed a simulation focused on quantitative research methods 
+- Analyzed a book of loans to estimate a customer's probability of default
+- Used dynamic programming to convert FICO scores into categorical data to predict defaults
 
 
 ### 2. Interactive CRM Sales Dashboard
 #### [Link to the Dasbhoard](https://docs.google.com/spreadsheets/d/1CBoRVgpnTeBB8h5gxVzkNOoIWWElK_bQFLD_fe2R8N4/edit?usp=sharing) <br> 
-For this project, I developed a dynamic and fully automated sales dashboard using Google Sheets. The dashboard was designed to track customer interactions, sales performance, and other key business metrics in real time. By employing advanced formulas and conditional formatting, I created a tool that streamlined reporting and improved decision-making for sales teams. This project highlighted my proficiency in creating user-friendly data visualization tools tailored to business needs.
+- Developed a dynamic and fully automated sales dashboard using Google Sheets.
+- The dashboard was designed to track customer interactions, sales performance, and other key business metrics in real time.
+- Employed advanced formulas and conditional formatting, created a tool that streamlined reporting and improved decision-making for sales teams. 
 
 ### 3. Fake News Detection
 #### [Link to the Project](https://www.kaggle.com/code/abaghyangor/fake-news) <br>
-In this project, I developed a machine learning model to detect and classify fake news based on textual analysis. Using TF-IDF vectorization, I transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting. By evaluating performance with precision, recall, and F1-score, I identified the most effective model for distinguishing real from fake news. This project strengthened my skills in NLP, feature engineering, and model evaluation, demonstrating the power of AI in combating misinformation.
+- Developed a machine learning model to detect and classify fake news based on textual analysis.
+- Using TF-IDF vectorization, transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
+- Evaluated performance with precision, recall, and F1-score, identified the most effective model for distinguishing real from fake news.
 
 
 ### 4. TweetLike - Who Said That?
 #### [Link to the Project](https://github.com/abaghyangor/ripgor) <br>
-As part of a hackathon, I developed TweetLike with my team, an interactive, quiz-style web application where users write their own tweet and guess which celebrity they sound like. The app features an engaging X (Twitter)-style interface that hides names and avatars until after prediction, creating a fun game experience. On the machine learning side, I used TF-IDF vectorization to convert tweets into numerical features and trained a Logistic Regression model to classify the text among multiple celebrities. The app also explains its predictions with simple and detailed breakdowns of keywords contributing to each guess.
+- As part of a hackathon, developed TweetLike with my team, an interactive, quiz-style web application where users write their own tweet and guess which celebrity they sound like.
+- The app features an engaging X (Twitter)-style interface that hides names and avatars until after prediction, creating a fun game experience.
+- Used TF-IDF vectorization to convert tweets into numerical features and trained a Logistic Regression model to classify the text among multiple celebrities. The app also explains its predictions with simple and detailed breakdowns of keywords contributing to each guess.
 
 ## Skills
 - Programming: Python (Pandas, NumPy, Seaborn)
