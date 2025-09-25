@@ -62,11 +62,12 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 - Used dynamic programming to convert FICO scores into categorical data to predict defaults
 
 
-### 2. Interactive CRM Sales Dashboard
-#### [Link to the Dasbhoard](https://docs.google.com/spreadsheets/d/1CBoRVgpnTeBB8h5gxVzkNOoIWWElK_bQFLD_fe2R8N4/edit?usp=sharing) <br> 
-- Developed a dynamic and fully automated sales dashboard using Google Sheets.
-- The dashboard was designed to track customer interactions, sales performance, and other key business metrics in real time.
-- Employed advanced formulas and conditional formatting, created a tool that streamlined reporting and improved decision-making for sales teams. 
+### 2. CUREBench – Multi-Agent Medical Reasoning System ( Active )
+#### [Link to the Project](https://github.com/abaghyangor/CUREBench/tree/feautres/improvements) <br>
+
+- As part of the CUREBench competition hosted by Harvard Medical School, developed a multi-agent system to tackle complex healthcare question answering. The system routes questions across specialized agents (e.g., Pharmacology, Treatment Planning, Diagnostics), each powered by GPT-4o or GPT-4o-mini with domain-specific prompting.
+- The pipeline achieves strong performance on the validation benchmark (84.5% accuracy) by orchestrating agents through a planner, enforcing structured outputs, and handling both multiple-choice and open-ended reasoning.
+- Implemented strategies such as domain-specific prompts, dynamic routing, and error-driven refinement to ensure robustness on descriptive, edge-case clinical scenarios. The project highlights advanced LLM orchestration for medical QA, balancing cost-efficiency with high accuracy.
 
 ### 3. Fake News Detection
 #### [Link to the Project](https://www.kaggle.com/code/abaghyangor/fake-news) <br>
