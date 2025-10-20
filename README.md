@@ -66,7 +66,7 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 #### [Link to the Project](https://github.com/abaghyangor/CUREBench/tree/feautres/improvements) <br>
 
 - As part of the CUREBench competition hosted by Harvard Medical School, developed a multi-agent system to tackle complex healthcare question answering. The system routes questions across specialized agents (e.g., Pharmacology, Treatment Planning, Diagnostics), each powered by GPT-4o or GPT-4o-mini with domain-specific prompting.
-- The pipeline achieves strong performance on the validation benchmark (84.5% accuracy) by orchestrating agents through a planner, enforcing structured outputs, and handling both multiple-choice and open-ended reasoning.
+- The pipeline achieves strong performance on the validation benchmark (84.5% accuracy) by orchestrating agents through a planner, enforcing structured outputs, and handling both multiple-choice and open-ended reasoning. Placed Top 25% of participants.
 - Implemented strategies such as domain-specific prompts, dynamic routing, and error-driven refinement to ensure robustness on descriptive, edge-case clinical scenarios. The project highlights advanced LLM orchestration for medical QA, balancing cost-efficiency with high accuracy.
 
 ### 3. Fake News Detection
