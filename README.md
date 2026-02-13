@@ -4,7 +4,7 @@ Welcome to my Data Science portfolio! I am a Data Science student at UC San Dieg
 
 ## About Me
 
-I am an aspiring data scientist with a strong foundation in Python and data visualization. My academic journey and personal projects have equipped me with the ability to tackle complex datasets, extract insights, and present actionable results.
+I am a 2nd year undegraduate data science major at UCSD, I am also currently exploring agentic AI.
 
 ## Work Experience
 
