@@ -69,7 +69,7 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 - The pipeline achieves strong performance on the validation benchmark (84.5% accuracy) by orchestrating agents through a planner, enforcing structured outputs, and handling both multiple-choice and open-ended reasoning. Placed Top 25% of participants.
 - Implemented strategies such as domain-specific prompts, dynamic routing, and error-driven refinement to ensure robustness on descriptive, edge-case clinical scenarios. The project highlights advanced LLM orchestration for medical QA, balancing cost-efficiency with high accuracy.
 
-### 3. PokeAgent – Reinforcement Learning Speedrun Track (NeurIPS 2025)
+### 3. PokeAgent – Reinforcement Learning Speedrun Track (NeurIPS 2025) - Top 10
 #### [Link to the Project](https://github.com/abaghyangor/pokeagent-speedrun/tree/main) <br>
 - As part of the NeurIPS 2025 PokeAgent Challenge (Speedrun Track), developed and optimized a reinforcement learning agent for strategic decision-making in a multi-agent Pokémon battle environment. The task required building an autonomous agent capable of reasoning under partial observability, stochastic transitions, and adversarial dynamics.
 - Implemented policy optimization techniques, reward shaping, and environment-specific state encoding to improve sample efficiency and generalization across matchups. Focused on minimizing inference latency while preserving strategic depth, balancing exploration and exploitation under strict runtime constraints.
