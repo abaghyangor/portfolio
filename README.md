@@ -55,11 +55,11 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 
 ## Projects
 
-### 1. JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage - August 2025
-#### [Link to the Project](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_mhCY7RRkuevZHkP4u_1755442169342_completion_certificate.pdf) <br>
-- Completed a simulation focused on quantitative research methods 
-- Analyzed a book of loans to estimate a customer's probability of default
-- Used dynamic programming to convert FICO scores into categorical data to predict defaults
+### 1. UCSD SMASH Hackathon – Beetle-Based Climate ML Model (Winner at UCSD, 6th Nationally)
+#### [Link to the Project](https://github.com/abaghyangor/UCSD-Smash-NSF?tab=readme-ov-file) <br>
+- As part of UCSD’s SMASH initiative in collaboration with the NSF HDR National ML Challenge, developed a machine learning model to predict soil condition changes using beetle population data as ecological indicators of climate shifts.
+- Led the modeling and feature engineering pipeline, integrating ecological datasets with supervised learning methods to capture nonlinear relationships between species distribution and environmental stress factors. Focused on cross-validation robustness, interpretability, and generalization across geographic regions.
+- Our team won 1st place at the UCSD-level competition among ~200 participants and placed 6th nationally. The project highlights applied environmental machine learning, interdisciplinary collaboration between data science and climate research, and translating biological indicators into predictive climate analytics.
 
 
 ### 2. CUREBench – Multi-Agent Medical Reasoning System ( Active )
@@ -69,11 +69,11 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 - The pipeline achieves strong performance on the validation benchmark (84.5% accuracy) by orchestrating agents through a planner, enforcing structured outputs, and handling both multiple-choice and open-ended reasoning. Placed Top 25% of participants.
 - Implemented strategies such as domain-specific prompts, dynamic routing, and error-driven refinement to ensure robustness on descriptive, edge-case clinical scenarios. The project highlights advanced LLM orchestration for medical QA, balancing cost-efficiency with high accuracy.
 
-### 3. Fake News Detection
-#### [Link to the Project](https://www.kaggle.com/code/abaghyangor/fake-news) <br>
-- Developed a machine learning model to detect and classify fake news based on textual analysis.
-- Using TF-IDF vectorization, transformed article content into numerical representations and trained multiple classifiers, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
-- Evaluated performance with precision, recall, and F1-score, identified the most effective model for distinguishing real from fake news.
+### 3. PokeAgent – Reinforcement Learning Speedrun Track (NeurIPS 2025)
+#### [Link to the Project](https://github.com/abaghyangor/pokeagent-speedrun/tree/main) <br>
+- As part of the NeurIPS 2025 PokeAgent Challenge (Speedrun Track), developed and optimized a reinforcement learning agent for strategic decision-making in a multi-agent Pokémon battle environment. The task required building an autonomous agent capable of reasoning under partial observability, stochastic transitions, and adversarial dynamics.
+- Implemented policy optimization techniques, reward shaping, and environment-specific state encoding to improve sample efficiency and generalization across matchups. Focused on minimizing inference latency while preserving strategic depth, balancing exploration and exploitation under strict runtime constraints.
+- Through iterative experimentation, hyperparameter tuning, and failure-case analysis, achieved a Top 10 overall placement globally. The project demonstrates applied reinforcement learning, multi-agent reasoning, and robust system optimization under competitive evaluation settings.
 
 
 ### 4. TweetLike - Who Said That?
