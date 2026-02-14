@@ -62,7 +62,7 @@ Key Technologies: Python, pandas, scikit-learn, NumPy, Jupyter, REST APIs (Trest
 - Our team won 1st place at the UCSD-level competition among ~200 participants and placed 6th nationally. The project highlights applied environmental machine learning, interdisciplinary collaboration between data science and climate research, and translating biological indicators into predictive climate analytics.
 
 
-### 2. CUREBench – Multi-Agent Medical Reasoning System ( Active )
+### 2. CUREBench – Multi-Agent Medical Reasoning System
 #### [Link to the Project](https://github.com/abaghyangor/CUREBench/tree/feautres/improvements) <br>
 
 - As part of the CUREBench competition hosted by Harvard Medical School, developed a multi-agent system to tackle complex healthcare question answering. The system routes questions across specialized agents (e.g., Pharmacology, Treatment Planning, Diagnostics), each powered by GPT-4o or GPT-4o-mini with domain-specific prompting.
